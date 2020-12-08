@@ -1,0 +1,9 @@
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.deps.json
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.dll
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.pdb
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.dll
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.pdb
