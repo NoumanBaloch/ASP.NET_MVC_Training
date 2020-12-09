@@ -1,13 +1,14 @@
-﻿namespace DemoApp
+﻿namespace SOLID
 {
     public class  StockChecker
     {
         public int StockLevel;
 
-        public void CheckStockLevel()
+        public int CheckStockLevel()
         {
             var service = new ExternalService();
             StockLevel = service.GetStock();
+            return StockLevel;
         }
     }
 

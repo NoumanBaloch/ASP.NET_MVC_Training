@@ -1,0 +1,9 @@
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\bin\Debug\netstandard2.0\SOLID.deps.json
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\bin\Debug\netstandard2.0\SOLID.dll
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\bin\Debug\netstandard2.0\SOLID.pdb
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\obj\Debug\netstandard2.0\SOLID.csprojAssemblyReference.cache
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\obj\Debug\netstandard2.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\obj\Debug\netstandard2.0\SOLID.AssemblyInfo.cs
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\obj\Debug\netstandard2.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\obj\Debug\netstandard2.0\SOLID.dll
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\SOLID\obj\Debug\netstandard2.0\SOLID.pdb

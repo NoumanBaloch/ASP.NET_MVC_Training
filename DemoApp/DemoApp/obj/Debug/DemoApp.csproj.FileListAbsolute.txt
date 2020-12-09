@@ -8,3 +8,5 @@ C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\DemoApp\obj\Debu
 C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\DemoApp\bin\Debug\CalculatorLibrary.dll
 C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\DemoApp\bin\Debug\CalculatorLibrary.pdb
 C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CopyComplete
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\DemoApp\bin\Debug\SOLID.dll
+C:\Users\noumanbaloch\Workspace\ASP.NET MVC Application\DemoApp\DemoApp\bin\Debug\SOLID.pdb

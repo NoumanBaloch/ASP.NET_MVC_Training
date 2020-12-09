@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DemoApp
+namespace SOLID
 {
     public class StockAlert
     {

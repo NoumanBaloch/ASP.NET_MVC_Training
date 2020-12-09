@@ -1,4 +1,5 @@
 ﻿using CalculatorLibrary;
+using SOLID;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,9 +13,9 @@ namespace DemoApp
         static void Main(string[] args)
         {
             Calculator.Calculate();
+            Product.Stock();
             Console.ReadKey();
         }
 
-        
     }
 }

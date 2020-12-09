@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCGxVy4GLnBtMO2jF3DS0TGKY9S0EchZdr3GTmIFPIjlZ9F/sThESjNlUTWHPOMWUvqOYleAL/FiErAmMwPRow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noumanbaloch\\Workspace\\ASP.NET MVC Application\\DemoApp\\SOLID\\SOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noumanbaloch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\noumanbaloch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

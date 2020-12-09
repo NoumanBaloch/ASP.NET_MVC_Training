@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExternalService.cs" />
-    <Compile Include="Prodduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StockAlert.cs" />
-    <Compile Include="StockChecker.cs" />
-    <Compile Include="StockLevelChecker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -58,6 +53,10 @@
     <ProjectReference Include="..\CalculatorLibrary\CalculatorLibrary.csproj">
       <Project>{c19613b0-f801-4929-86b0-175b51d4e9a5}</Project>
       <Name>CalculatorLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SOLID\SOLID.csproj">
+      <Project>{E4E693B8-3664-4CCE-BB6C-EDD9CE3718F8}</Project>
+      <Name>SOLID</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

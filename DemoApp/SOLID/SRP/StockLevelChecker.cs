@@ -1,4 +1,4 @@
-﻿namespace DemoApp
+﻿namespace SOLID
 {
     public class StockLevelChecker
     {
