@@ -17,7 +17,7 @@ namespace DemoApp
         {
             //Calculator.Calculate();
             //Product.Stock();
-            //Employee empJohn = new PermanentEmployee(1, "John");
+            //Employee empjohn = new PermanentEmployee(1, "john");
             //Employee empJason = new TemporaryEmployee(2, "Jason");
 
 
